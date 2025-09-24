@@ -1,0 +1,10 @@
+0. Term, meaning, sentence, term in PT, sentence in PT
+1. Run out of, To exhaust or use all of a certain thing, The server ran out of memory while processing the batch of requests.
+2. Use up, To consume or use something completely, The script used up all the available CPU cycles during the heavy computation,
+3. Hook up, connect the cables and give it power, I hooked up the new SSD to the motherboard and cloned the old drive
+4. Key in, to type, I hooked up the new SSD to the motherboard and cloned the old drive
+5. Iteration (loops), A block of code which is repeated multiple times until a condition is met, iteração, You need to key in your admin credentials to access the database
+6. Logic arithmetic (boolean algebra), it is a fundamental concept in computer science that uses the two values, true or false, to express logical relationships, Each iteration of the algorithm improved the sorting speed by 5%
+7. Environment variables, they're named, dynamic values stored outside of a program's source code, typically in the operating system, and are available to applications, users, and processes, Set the PATH environment variable to include the Python installation directory
+8. Shell, a shell is a program that provides a command-line interface(CLI) for users to interact with the operating systems's kernel, I opened a shell to run the batch deployment script on the server
+9. System call(syscall) is how a computer program requests a service from the operating system's kernel, acting as an interfacd between user applications and the OS' privileged functions, The program performs a system call to read a file from disk, 
