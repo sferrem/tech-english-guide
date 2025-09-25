@@ -1,10 +1,9 @@
 0. Term, meaning, sentence, term in PT, sentence in PT
-1. Run out of, To exhaust or use all of a certain thing, The server ran out of memory while processing the batch of requests.
-2. Use up, To consume or use something completely, The script used up all the available CPU cycles during the heavy computation,
-3. Hook up, connect the cables and give it power, I hooked up the new SSD to the motherboard and cloned the old drive
-4. Key in, to type, I hooked up the new SSD to the motherboard and cloned the old drive
-5. Iteration (loops), A block of code which is repeated multiple times until a condition is met, iteração, You need to key in your admin credentials to access the database
-6. Logic arithmetic (boolean algebra), it is a fundamental concept in computer science that uses the two values, true or false, to express logical relationships, Each iteration of the algorithm improved the sorting speed by 5%
-7. Environment variables, they're named, dynamic values stored outside of a program's source code, typically in the operating system, and are available to applications, users, and processes, Set the PATH environment variable to include the Python installation directory
-8. Shell, a shell is a program that provides a command-line interface(CLI) for users to interact with the operating systems's kernel, I opened a shell to run the batch deployment script on the server
-9. System call(syscall) is how a computer program requests a service from the operating system's kernel, acting as an interfacd between user applications and the OS' privileged functions, The program performs a system call to read a file from disk, 
+1. Run out of, To exhaust or use all of a certain thing, The server ran out of memory while processing the batch of requests, ficar sem ou esgotar, O servidor ficou sem memória durante o processamento do lote de solicitações
+2. Use up, To consume or use something completely, The script used up all the available CPU cycles during the heavy computation, usar toda a quantidade disponível, O script usou todos os ciclos de CPU disponíveis durante a computação pesada
+3. Hook up, connect the cables and give it power, I hooked up the new SSD to the motherboard and cloned the old drive, conectar cabos, Conectei o novo SSD à placa-mãe e clonei a unidade antiga
+4. Key in, to type, Please key in your password to access the system., digitar, Por favor digite a sua senha para acessar o sistema.
+5. Iteration (loops), A block of code which is repeated multiple times until a condition is met, iteração, Each iteration of the algorithm improved the sorting speed by 5%
+6. Compile, to change the language in which a computer program is written into instructions that a computer can use, I need to compile the code before running it., compilar, Preciso compilar o código antes de rodá-lo.
+7. Library, Ready-made code you can use in your program., This project depends on a graphics library., biblioteca, Este projeto depende de uma biblioteca gráfica.
+8. Syntax, The rules for how code must be written., A single typo broke the syntax of my program., sintaxe, Um único erro de digitação quebrou a sintaxe do meu programa.
